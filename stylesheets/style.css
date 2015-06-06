@@ -1,0 +1,67 @@
+.titlebar img {
+	float: left;
+	padding-right: 25px;
+}
+
+.titlebar h1{
+	color: white;
+	font-size: 80px;
+}
+
+.titlebar{
+	background-color: green;
+
+}
+
+.list ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+}
+
+.list li{
+	font-size: 25px;
+	display: inline;
+	text-align: left;
+	color: white;
+
+}
+
+.text{
+	color: white;
+	padding-left: 150px;
+	padding-bottom: 100px;
+}
+
+.iphoneimag{
+	float: right;
+	padding-right: 400px;
+}
+
+.list{
+	background-color: green;
+}
+
+body{
+	background-image: url(https://www.emich.edu/honors/images/aerialcampus.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.list a:link, .list a:visited{
+	color: white;
+	padding-right: 35px;
+}
+
+.contact {
+	float: right;
+	padding-right: 150px;
+	color: white;
+	
+}
+
+iframe{
+	padding-top: 30px;
+}
+
