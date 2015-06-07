@@ -1,0 +1,34 @@
+.titlebar img {
+	float: left;
+	padding-right: 25px;
+}
+
+.titlebar h1{
+	color: white;
+	font-size: 60px;
+}
+
+.titlebar{
+	background-color: green;
+}
+
+.list ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+}
+
+.list li{
+	font-size: 25px;
+	display: inline;
+	text-align: left;
+	color: white;
+}
+
+.text{
+	color: white;
+	padding-left: 150px;
+	padding-bottom: 100px;
+}
+
