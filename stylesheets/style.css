@@ -54,6 +54,11 @@ body{
 	padding-right: 35px;
 }
 
+.list a:hover{
+	background-color: white;
+	color:green;
+}
+
 .contact {
 	float: right;
 	padding-right: 150px;
