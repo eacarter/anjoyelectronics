@@ -32,3 +32,10 @@
 	padding-bottom: 100px;
 }
 
+body{
+	background-image: url(https://www.emich.edu/honors/images/aerialcampus.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 400px;
+}
+
