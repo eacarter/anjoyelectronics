@@ -43,13 +43,13 @@
 	background-color: green;
 }
 
-/*
+
 body{
 	background-image: url(https://www.emich.edu/honors/images/aerialcampus.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
-*/
+
 
 
 .list a:link, .list a:visited{
@@ -72,6 +72,4 @@ body{
 iframe{
 	padding-top: 30px;
 }
-
-@media
 
